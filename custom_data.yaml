@@ -1,0 +1,6 @@
+train : C:\Users\sibir\OneDrive\Desktop\dress code project\Project-main\datasets\train
+val : C:\Users\sibir\OneDrive\Desktop\dress code project\Project-main\datasets\val
+
+nc : 3
+
+names : ["shoe","belt","id_card"]

@@ -1,0 +1,3 @@
+shoe
+belt
+id_card
